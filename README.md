@@ -1,5 +1,6 @@
 ## Diovana Rodrigues Valim :brazil:
-### ¡Hola! 👋 Meu nome é Diovana, sou uma 🎓 estudante de Sistemas de Informação, na UFSC. Sou de Santa Catarina, Brasil. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=5D6CF7&width=435&lines=%C2%A1Hola!+%F0%9F%91%8B)](https://git.io/typing-svg)
+### Meu nome é Diovana, sou uma 🎓 estudante de Sistemas de Informação, na UFSC. Sou de Santa Catarina, Brasil. 
 
   <img align="right" alt="GIF" src="https://octodex.github.com/images/nyantocat.gif" width="400px" />
 
