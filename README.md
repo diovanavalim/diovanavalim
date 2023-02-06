@@ -8,7 +8,7 @@
 - 🌱 Estou sempre aprendendo, sobre tudo o que posso.
 - 📫 Meu e-mail: diovana.valim@mercadolivre.com
 - 😄 Pronomes: Ela/dela
-- ⚽ Hobbies: Ler, desenhar, escrever, coding, fotografar e festejar.
+- ⚽ Hobbies: Ler, desenhar, escrever, codar, fotografar.
 - ⚡ Fato curioso: Amo ovelhas! 
 
 **Linguagens, Frameworks and Ferramentas**
